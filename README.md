@@ -19,7 +19,7 @@ Some websites I've built in the past using frameworks such as GatsbyJS (a wrappe
 ### One of my favorite images:
 ![Roxy](https://garretthughesphotography.com/static/baf3deca92e531da242e72d3a963fd37/7e193/astro-photography-nightscape-cover.webp "Roxy")
 
-Bonus round... here is a component I wrote today!
+Bonus round... here is an authentication service I wrote today!
 ```
 import ServerApi from '../utils/apis/ServerApi'
 import { navigate } from 'gatsby'

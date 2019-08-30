@@ -2,8 +2,8 @@
 
 Some main takeaways:
 1. I'm a full time software engineer (Rails/React)
-2. I'm a tad worried this class might be too high level for me but excited to learn
-3. I'm excited to move deeper into node/react
+2. I'm a tad worried this class might be too high level for me but excited to learn and go deeper
+3. I'm excited to be admitted into the SDSU M.S. Computer Science program!
 
 Some websites I've built in the past using frameworks such as GatsbyJS (a wrapper around React)
 * [My photography Site](https://garretthughesphotography.com/)
